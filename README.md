@@ -26,9 +26,13 @@ Usage:
 ---CREDITS---
 I want to thank you people from Python discord that were really helpfull during development of this app:
 offby1
+
 HyperTurtle
+
 Further_Reading
+
 You guys are awsome!
+
 
 Comitypes! - Crash Font (https://www.dafont.com/aryel-filipe.d1876)
 
