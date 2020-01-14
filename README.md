@@ -11,7 +11,7 @@ It counts by your time in actual race, not time in lobby.
 
 So basicly when you get a time in race like: 2min40sec08ms you need to input that in an app like: 24008 without any formating.
 
-[Download for Android](https://drive.google.com/file/d/12CgKNDkFdiiYsxQ9btWb-BRHfYOSFT6x/view?usp=drivesdk)
+[Download for Android](https://drive.google.com/file/d/12CgKNDkFdiiYsxQ9btWb-BRHfYOSFT6x/view?usp=drivesdk) - Be sure to turn on "Unknown sources" function in phone settings
 
 [Download for Windows](https://github.com/Gacut/Wumpa-Time-Countdown/raw/master/WumpaForWindows.7z)
 
