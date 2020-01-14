@@ -2,6 +2,8 @@
 
 After a few weeks of learning Kivy, i made my first app as a hobby project. There is a room for improvement in code for sure.
 
+Inspiration for an app taken from webapp https://wumpa.app  by Reddit user u/Pookloo
+
 What this app does it's accutaly pretty simple:
 
 While playing Crash Team Racing: Nitro Fueled online, you have 30 minutes in a day when you will get 2x more coins per race.
@@ -40,6 +42,8 @@ Further_Reading
 
 You guys are awsome!
 
+
+u/Pookloo - for making https://wumpa.app
 
 Comitypes! - Crash Font (https://www.dafont.com/aryel-filipe.d1876)
 
