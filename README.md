@@ -24,6 +24,7 @@ Usage:
 ------------------------------------------------------------------------------
 
 ---CREDITS---
+
 I want to thank you people from Python discord that were really helpfull during development of this app:
 offby1
 
