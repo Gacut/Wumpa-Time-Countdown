@@ -11,6 +11,10 @@ So basicly when you get a time in race like: 2min40sec08ms you need to input tha
 
 [Download for Android](https://github.com/Gacut/Wumpa-Time-Countdown/raw/master/Android/WumpaTime.apk)
 
+[Download for Windows](https://github.com/Gacut/Wumpa-Time-Countdown/raw/master/WumpaForWindows.7z)
+
+NOTE: If you want to quit windows app, just pres ESC button
+
 ------------------------------------------------------------------------------
 Usage:
 
