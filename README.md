@@ -31,7 +31,9 @@ Further_Reading
 You guys are awsome!
 
 Comitypes! - Crash Font (https://www.dafont.com/aryel-filipe.d1876)
+
 Pat Snyder - Another font (https://www.dafont.com/pat-snyder.d386)
+
 Beenox and NaughtyDog - For making an awsome game which is Crash Team Racing!
 
 
