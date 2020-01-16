@@ -6,7 +6,7 @@ Inspiration for an app taken from webapp https://wumpa.app  by Reddit user u/Poo
 
 What this app does it's accutaly pretty simple:
 
-While playing Crash Team Racing: Nitro Fueled online, you have 30 minutes in a day when you will get 2x more coins per race.
+While playing Crash Team Racing: Nitro Fueled online, you have 30 minutes in a day when you will get 5x more coins per race.
 It counts by your time in actual race, not time in lobby.
 
 So basicly when you get a time in race like: 2min40sec08ms you need to input that in an app like: 24008 without any formating.
